@@ -7,6 +7,7 @@ Note: This repository contains examples of malicious files. It should be used fo
 ### INSTALLATION
 
 1. make sure you have downloaded the latest version of [python3](https://python.org/downloads/) and [git](https://git-scm.com/download/win)
+
 2. clone this project into python by using:
 
 ```

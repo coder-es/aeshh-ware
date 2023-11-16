@@ -1,4 +1,5 @@
 # pnuker File Nuker 
+Basic windows system file nuker written in python allowing: file deleting, file spamming, background changing and misc
 
 This project was written as part of learning some basics with file spamming and overwriting. This program is made to function as a file nuker correctly but shouldnt be subsituted or used for malicous intent. 
 

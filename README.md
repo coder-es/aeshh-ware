@@ -15,17 +15,17 @@ Note: This repository contains examples of malicious files. It should be used fo
 4. turn .py file into a .exe file by switching to directory where punker file is using:
 
 ```
-C:\Users\Name>cd C:\Users\Name\Path\Path
+   C:\Users\Name>cd C:\Users\Name\Path\Path
    ```
 5. Change file .exe using code:
 
 ```
-pyinstaller --onefile pythonScriptName.py
+   pyinstaller --onefile pythonScriptName.py
 ```
 6. Afterwards go back to the directory you were in before using:
 
 ```
-C:\Users\Name>cd C:\Users\Name\Path\Path
+   C:\Users\Name>cd C:\Users\Name\Path\Path
    ```
 
 7. You will see a few new folders added, open the **dist** folder ans in there will be the .exe file.

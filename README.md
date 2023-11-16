@@ -13,7 +13,7 @@ Note: This repository contains examples of malicious files. It should be used fo
 ```
    git clone https://github.com/coder-es/pnuker.git
    ```
-4. turn .py file into a .exe file by switching to directory where punker file is using:
+4. turn .py file into a .exe file by switching to directory where pnuker file is using:
 
 ```
    C:\Users\Name>cd C:\Users\Name\Path\Path

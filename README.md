@@ -1,4 +1,4 @@
-# Windows File Nuker 
+# pnuker File Nuker 
 
 This project was written as part of learning some basics with file spamming and overwriting. This program is made to function as a file nuker correctly but shouldnt be subsituted or used for malicous intent. 
 
@@ -12,4 +12,5 @@ Note: This repository contains examples of malicious files. It should be used fo
    ```
    git clone https://github.com/coder-es/pnuker.git
    ```
-4. 
+4. turn .py file into a .exe file using pyinstaller
+

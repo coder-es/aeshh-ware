@@ -9,28 +9,37 @@ Note: This repository contains examples of malicious files. It should be used fo
 
 1. make sure you have downloaded the latest version of [python3](https://python.org/downloads/) and [git](https://git-scm.com/download/win)
 
-2. clone this project into python by using:
+2. make sure you have the pyaescryptor and secrets pip modules installed before by using:
+
+```
+   pip install pyAesCrypt #AND# pip install secrets
+```
+
+3. clone this project into python by using:
 
 ```
    git clone https://github.com/coder-es/aeshh.git
    ```
-4. turn .py file into a .exe file by switching to directory where pnuker file is using:
+
+4. change variables inside code to your needs
+   
+5. turn .py file into a .exe file by switching to directory where pnuker file is using:
 
 ```
    C:\Users\Name>cd C:\Users\Name\Path\Path
    ```
-5. Change file .exe using code:
+6. Change file .exe using code:
 
 ```
    pyinstaller --onefile pythonScriptName.py
 ```
-6. Afterwards go back to the directory you were in before using:
+7. Afterwards go back to the directory you were in before using:
 
 ```
    C:\Users\Name>cd C:\Users\Name\Path\Path
    ```
 
-7. You will see a few new folders added, open the **dist** folder ans in there will be the .exe file.
+8. You will see a few new folders added, open the **dist** folder ans in there will be the .exe file.
 
 
 **NOTE**
